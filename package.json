@@ -2,6 +2,10 @@
   "name": "iammrteapot-theme",
   "displayName": "IamMrTeapot Theme",
   "description": "Random custom theme, Based on Dark+ and github dark web based",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IamMrTeapot/IamMrTeapotTheme"
+  },
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.87.0"
